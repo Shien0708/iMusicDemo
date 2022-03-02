@@ -13,6 +13,16 @@
 		64132B452783F9E700E1306F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 64132B432783F9E700E1306F /* Main.storyboard */; };
 		64132B472783F9E800E1306F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 64132B462783F9E800E1306F /* Assets.xcassets */; };
 		64132B4A2783F9E800E1306F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 64132B482783F9E800E1306F /* LaunchScreen.storyboard */; };
+		641367DD27CA45F900FD76BE /* I'm the One.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 641367DC27CA45F900FD76BE /* I'm the One.mp3 */; };
+		641367DF27CA45FE00FD76BE /* Peaches.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 641367DE27CA45FE00FD76BE /* Peaches.mp3 */; };
+		641367E127CA460400FD76BE /* Let Me Love You.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 641367E027CA460400FD76BE /* Let Me Love You.mp3 */; };
+		641367E327CA461700FD76BE /* Ghost.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 641367E227CA461700FD76BE /* Ghost.mp3 */; };
+		641367E527CA462E00FD76BE /* Music.swift in Sources */ = {isa = PBXBuildFile; fileRef = 641367E427CA462E00FD76BE /* Music.swift */; };
+		6431B41A27CDEE4800CF7B3C /* Cold Water.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 6431B41927CDEE4800CF7B3C /* Cold Water.mp3 */; };
+		6431B41F27CE027500CF7B3C /* 2U.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 6431B41B27CE027400CF7B3C /* 2U.mp3 */; };
+		6431B42027CE027500CF7B3C /* STAY.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 6431B41C27CE027400CF7B3C /* STAY.mp3 */; };
+		6431B42127CE027500CF7B3C /* Holy.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 6431B41D27CE027400CF7B3C /* Holy.mp3 */; };
+		6431B42227CE027500CF7B3C /* Lonely.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 6431B41E27CE027500CF7B3C /* Lonely.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +34,16 @@
 		64132B462783F9E800E1306F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		64132B492783F9E800E1306F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		64132B4B2783F9E800E1306F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		641367DC27CA45F900FD76BE /* I'm the One.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "I'm the One.mp3"; sourceTree = "<group>"; };
+		641367DE27CA45FE00FD76BE /* Peaches.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Peaches.mp3; sourceTree = "<group>"; };
+		641367E027CA460400FD76BE /* Let Me Love You.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Let Me Love You.mp3"; sourceTree = "<group>"; };
+		641367E227CA461700FD76BE /* Ghost.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Ghost.mp3; sourceTree = "<group>"; };
+		641367E427CA462E00FD76BE /* Music.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Music.swift; sourceTree = "<group>"; };
+		6431B41927CDEE4800CF7B3C /* Cold Water.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Cold Water.mp3"; sourceTree = "<group>"; };
+		6431B41B27CE027400CF7B3C /* 2U.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 2U.mp3; sourceTree = "<group>"; };
+		6431B41C27CE027400CF7B3C /* STAY.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = STAY.mp3; sourceTree = "<group>"; };
+		6431B41D27CE027400CF7B3C /* Holy.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Holy.mp3; sourceTree = "<group>"; };
+		6431B41E27CE027500CF7B3C /* Lonely.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Lonely.mp3; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -40,6 +60,15 @@
 		64132B312783F9E700E1306F = {
 			isa = PBXGroup;
 			children = (
+				641367DC27CA45F900FD76BE /* I'm the One.mp3 */,
+				641367DE27CA45FE00FD76BE /* Peaches.mp3 */,
+				641367E027CA460400FD76BE /* Let Me Love You.mp3 */,
+				641367E227CA461700FD76BE /* Ghost.mp3 */,
+				6431B41927CDEE4800CF7B3C /* Cold Water.mp3 */,
+				6431B41B27CE027400CF7B3C /* 2U.mp3 */,
+				6431B41D27CE027400CF7B3C /* Holy.mp3 */,
+				6431B41E27CE027500CF7B3C /* Lonely.mp3 */,
+				6431B41C27CE027400CF7B3C /* STAY.mp3 */,
 				64132B3C2783F9E700E1306F /* iMusicDemo */,
 				64132B3B2783F9E700E1306F /* Products */,
 			);
@@ -59,6 +88,7 @@
 				64132B3D2783F9E700E1306F /* AppDelegate.swift */,
 				64132B3F2783F9E700E1306F /* SceneDelegate.swift */,
 				64132B412783F9E700E1306F /* ViewController.swift */,
+				641367E427CA462E00FD76BE /* Music.swift */,
 				64132B432783F9E700E1306F /* Main.storyboard */,
 				64132B462783F9E800E1306F /* Assets.xcassets */,
 				64132B482783F9E800E1306F /* LaunchScreen.storyboard */,
@@ -125,9 +155,18 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6431B42127CE027500CF7B3C /* Holy.mp3 in Resources */,
+				6431B41F27CE027500CF7B3C /* 2U.mp3 in Resources */,
+				641367DF27CA45FE00FD76BE /* Peaches.mp3 in Resources */,
+				6431B42227CE027500CF7B3C /* Lonely.mp3 in Resources */,
+				641367E327CA461700FD76BE /* Ghost.mp3 in Resources */,
+				6431B42027CE027500CF7B3C /* STAY.mp3 in Resources */,
+				641367E127CA460400FD76BE /* Let Me Love You.mp3 in Resources */,
 				64132B4A2783F9E800E1306F /* LaunchScreen.storyboard in Resources */,
 				64132B472783F9E800E1306F /* Assets.xcassets in Resources */,
 				64132B452783F9E700E1306F /* Main.storyboard in Resources */,
+				641367DD27CA45F900FD76BE /* I'm the One.mp3 in Resources */,
+				6431B41A27CDEE4800CF7B3C /* Cold Water.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -141,6 +180,7 @@
 				64132B422783F9E700E1306F /* ViewController.swift in Sources */,
 				64132B3E2783F9E700E1306F /* AppDelegate.swift in Sources */,
 				64132B402783F9E700E1306F /* SceneDelegate.swift in Sources */,
+				641367E527CA462E00FD76BE /* Music.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
